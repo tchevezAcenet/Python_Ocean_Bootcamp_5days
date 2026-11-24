@@ -1,46 +1,525 @@
 Event,Station,Date/Time,Latitude,Longitude,Elevation [m],Litter obj,Litter cat,Litter fish
-HE419/004-8,H1,2021-02-14 07:18:00,54.0498,8.0828,-18,plastic fragment,plastics,no
-HE419/004-8,H1,2021-02-14 11:42:00,54.0498,8.0828,-18,metal texture,metal,no
-HE419/004-8,H1,2021-03-22 07:18:00,54.0498,8.0828,-18,glass bottle,glass,no
-HE419/007-6,M03,2021-05-09 18:17:00,54.1355,7.0443,-32,net fiber,plastics,yes
-HE419/009-5,M05,2021-08-04 23:14:00,54.2122,6.4518,-34,net fiber,plastics,yes
-HE419/009-5,M05,2021-08-11 14:05:00,54.2122,6.4518,-34,net fiber,plastics,yes
-HE419/009-5,M05,2021-08-25 09:33:00,54.2122,6.4518,-34,net fiber,plastics,yes
-HE419/010-5,M67,2021-11-03 02:01:00,54.1107,6.0908,-29,net fiber,plastics,yes
-HE419/011-6,M66,2022-01-18 03:41:00,54.1597,6.1593,-32,net fiber,plastics,yes
-HE419/011-6,M66,2022-03-05 16:21:00,54.1597,6.1593,-32,plastic foil,plastics,no
-HE419/011-6,M66,2022-04-12 03:41:00,54.1597,6.1593,-32,piece of beverage can,metal,no
-HE419/012-3,M68,2022-06-21 05:59:00,54.2255,6.2318,-33,net fiber,plastics,yes
-HE419/012-3,M68,2022-07-02 18:14:00,54.2255,6.2318,-33,net fiber,plastics,yes
-HE419/012-3,M68,2022-07-15 11:59:00,54.2255,6.2318,-33,net fiber,plastics,yes
-HE419/012-3,M68,2022-07-29 22:40:00,54.2255,6.2318,-33,plastic foil,plastics,no
-HE419/013-5,M06,2022-09-08 08:20:00,54.311,6.4655,-33,net fiber,plastics,yes
-HE419/014-7,M07,2022-10-14 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
-HE419/014-7,M07,2022-11-20 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
-HE419/014-7,M07,2023-01-05 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
-HE419/016-5,M10,2023-03-12 16:00:00,54.6177,6.065,-38,plastic foil,plastics,no
-HE419/017-5,M09,2023-05-18 19:16:00,54.6162,6.3837,-36,plastic bag,plastics,no
-HE419/024-5,M101,2023-07-04 15:02:00,54.8985,7.0187,-26,net fiber,plastics,yes
-HE419/024-5,M101,2023-07-19 12:45:00,54.8985,7.0187,-26,net fiber,plastics,yes
-HE419/026-9,WB,2023-08-01 20:20:00,54.9985,6.5,-42,plastic foil,plastics,no
-HE419/026-9,WB,2023-08-14 10:15:00,54.9985,6.5,-42,plastic foil,plastics,no
-HE419/027-7,M79,2023-08-22 22:35:00,54.9312,6.4383,-40,plastic rope,plastics,yes
-HE419/027-7,M79,2023-09-05 14:10:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2023-11-11 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2024-01-25 04:12:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2024-03-09 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2024-05-14 18:22:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2024-07-02 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2024-07-15 09:44:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2024-08-04 13:21:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2024-08-19 22:35:00,54.9312,6.4383,-40,piece of fishing net,plastics,yes
-HE419/027-7,M79,2024-09-02 07:55:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/027-7,M79,2024-10-18 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
-HE419/028-5,M13,2025-01-05 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
-HE419/028-5,M13,2025-03-14 11:24:00,54.9048,6.2068,-38,net fiber,plastics,yes
-HE419/028-5,M13,2025-05-20 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
-HE419/028-5,M13,2025-07-08 19:40:00,54.9048,6.2068,-38,net fiber,plastics,yes
-HE419/028-5,M13,2025-07-22 01:15:00,54.9048,6.2068,-38,net fiber,plastics,yes
-HE419/028-5,M13,2025-08-05 00:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
-HE419/028-5,M13,2025-08-19 14:50:00,54.9048,6.2068,-38,net fiber,plastics,yes
-HE419/028-5,M13,2025-09-02 00:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/004-8,H1,2014-04-03 7:18:00,54.0498,8.0828,-18,plastic fragment,plastics,no
+HE419/004-8,H1,2014-04-03 7:18:00,54.0498,8.0828,-18,metal texture,metal,no
+HE419/004-8,H1,2014-04-03 7:18:00,54.0498,8.0828,-18,Glass bottle,glass,no
+HE419/005-5,M01,2014-04-03 10:52:00,54.0465,7.7823,-20,plastic bag,plastics,no
+HE419/005-5,M01,2014-04-03 10:52:00,54.0465,7.7823,-20,metal texture,metal,no
+HE419/005-5,M01,2014-04-03 10:52:00,54.0465,7.7823,-20,Metal texture,metal,no
+HE419/005-5,M01,2014-04-03 10:52:00,54.0465,7.7823,-20,tyre with metal rim,others,no
+HE419/007-6,M03,2014-04-03 18:17:00,54.1355,7.0443,-32,net fiber,plastics,yes
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,43,net fibers,PLASTICS, yes
+HE419/008-5,M02,2014-04-03 20:44:00,54.1775,6.7337,-33,net fibre,plastics,yes
+HE419/008-5,M02,2014-04-03 20:44:00,54.1775,6.7337,-33,plastic rope,PLASTICS,yes
+HE419/008-5,M02,2014-04-03 20:44:00,54.1775,6.7337,-33,net fiber,plastics,yes
+HE419/008-5,M02,2014-04-03 20:44:00,54.1775,6.7337,-33,net fibers,plastics,yes
+HE419/009-5,M05,2014-04-03 23:14:00,54.2122,6.4518,-34,net fiber,plastics,yes
+HE419/009-5,M05,2014-04-03 23:14:00,54.2122,6.4518,-34,net fiber,plastics,yes
+HE419/009-5,M05,2014-04-03 23:14:00,54.2122,6.4518,-34,net fiber,plastics,yes
+HE419/009-5,M05,2014-04-03 23:14:00,54.2122,6.4518,-34,Net fiber,plastics, yes
+HE419/010-5,M67,2014-04-04 2:01:00,54.1107,6.0908,-29,net fiber,plastics,yes
+HE419/011-6,M66,2014-04-04 3:41:00,54.1597,6.1593,-32,net fiber,plastics,yes
+HE419/026-9,WB,2014-04-05 20:20:00,54.9985,6.5,-42,Plastic foil ,plastics,no
+HE419/011-6,M66,2014-04-04 3:41:00,54.1597,6.1593,-32,plastic foil,plastics,no
+HE419/011-6,M66,2014-04-04 3:41:00,54.1597,6.1593,-32,piece of beverage can,metal,no
+HE419/011-6,M66,2014-04-04 3:41:00,54.1597,6.1593,-32,plastic foil,plastics,no
+HE419/012-3,M68,2014-04-04 5:59:00,54.2255,6.2318,-33,net fiber,plastics,yes
+HE419/012-3,M68,2014-04-04 5:59:00,54.2255,6.2318,-33,net fiber,plastics,yes
+HE419/012-3,M68,2014-04-04 5:59:00,54.2255,6.2318,-33,net fiber,plastics,yes
+HE419/012-3,M68,2014-04-04 5:59:00,54.2255,6.2318,-33,plastic foil,plastics,no
+HE419/013-5,M06,2014-04-04 8:20:00,54.311,6.4655,-33,net fiber,Plastics ,yes
+HE419/013-5,M06,2014-04-04 8:20:00,54.311,6.4655,-33,net fiber,plastics,yes
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,net fiber,plastics,YES
+HE419/014-7,M07,2014-04-04 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
+HE419/014-7,M07,2014-04-04 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
+HE419/014-7,M07,2014-04-04 10:39:00,54.4182,6.6103,-35,net fiber,plastics,yes
+HE419/015-5,M04,2014-04-04 13:17:00,54.5403,6.3437,-34,plastic foil,plastics,no
+HE419/015-5,M04,2014-04-04 13:17:00,54.5403,6.3437,-34,piece of plastic foil,plastics,no
+HE419/016-5,M10,2014-04-04 16:00:00,54.6177,6.065,-38,plastic foil,plastics,no
+HE419/016-5,M10,2014-04-04 16:00:00,54.6177,6.065,-38,plastic foil,plastics,no
+HE419/017-5,M09,2014-04-04 19:16:00,54.6162,6.3837,-36,plastic bag,plastics,no
+HE419/022-6,M17,2014-04-05 9:24:00,54.8061,6.8126,-31,Cable tie,plastics,NO
+HE419/018-5,M08,2014-04-04 22:05:00,54.6676,6.4265,-32,net fiber,plastics,yes
+HE419/019-6,M15,2014-04-05 0:56:00,54.6768,6.6272,-34,net fibers,plastics,yes
+HE419/019-6,M15,2014-04-05 0:56:00,54.6768,6.6272,-34,plastic bag,plastics,no
+HE419/019-6,M15,2014-04-05 0:56:00,54.6768,6.6272,-34,plastic mesh,plastics,Yes
+HE419/020-5,M16,2014-04-05 3:44:00,54.7532,6.6741,-31,net fiber,plastics,yes
+HE419/020-5,M16,2014-04-05 3:44:00,54.7532,6.6741,-31,net fiber,plastics,yes
+HE419/020-5,M16,2014-04-05 3:44:00,54.7532,6.6741,-31,sealing rubber,plastics,no
+HE419/022-6,M17,2014-04-05 9:24:00,54.8061,6.8126,-31,net fiber,plastics, yes
+HE419/022-6,M17,2014-04-05 9:24:00,54.8061,6.8126,-31,cable tie,plastics,NO
+HE419/022-6,M17,2014-04-05 9:24:00,54.8061,6.8126,-31,plastic bag,plastics,no
+HE419/022-6,M17,2014-04-05 9:24:00,54.8061,6.8126,-31,Net fiber,plastics,yes
+HE419/022-6,M17,2014-04-05 9:24:00,54.8061,6.8126,-31,net fiber,plastics,yes
+HE419/024-5,M101,2014-04-05 15:02:00,54.8985,7.0187,-26,net fiber,plastics,yes
+HE419/024-5,M101,2014-04-05 15:02:00,54.8985,7.0187,-26,net fiber,plastics,yes
+HE419/025-5,M23,2014-04-05 17:37:00,54.9441,6.7224,-36,plastic mesh,plastics,yes
+HE419/025-5,M23,2014-04-05 17:37:00,54.9441,6.7224,-36,beverage can,metal,
+HE419/025-5,M23,2014-04-05 17:37:00,54.9441,6.7224,-36,net fiber,plastics,
+HE419/025-5,M23,2014-04-05 17:37:00,54.9441,6.7224,-36,piece of line,plastics,yes
+HE419/025-5,M23,2014-04-05 17:37:00,54.9441,6.7224,-36,plastic foil,Plastics,no
+HE419/025-5,M23,2014-04-05 17:37:00,54.9441,6.7224,-36,piece of fishing net,plastics,yes
+HE419/026-9,WB,2014-04-05 20:20:00,54.9985,6.5,-42,Plastic foil ,plastics,no
+HE419/094-5,M78,2014-04-11 20:29:00,54.2173,8.1942,-16,net fibers, plastics,yes
+HE419/026-9,WB,2014-04-05 20:20:00,54.9985,6.5,-42,plastic foil,plastics,no
+HE419/026-9,WB,2014-04-05 20:20:00,54.9985,6.5,-42,Plastic foil,plastics,no
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,plastic rope,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes 
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,Net fiber ,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,PLASTICS,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,PLASTICS, yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,piece of fishing net,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,Plastics ,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics ,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,PLASTIC FIBER,plastics,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics ,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/028-5,M13,2014-04-06 0:32:00,54.9048,6.2068,-38,net fiber,plastics,yes
+HE419/029-5,M14,2014-04-06 2:27:00,54.8238,6.0,-38,plastic foil,plastics,NO
+HE419/029-5,M14,2014-04-06 2:27:00,54.8238,6.0,-38,net fiber,PLASTICS,yes
+HE419/030-5,M11,2014-04-06 4:47:00,54.7213,5.785,-39,net fiber,plastics,yes
+HE419/031-7,M12,2014-04-06 7:22:00,54.5613,5.4358,-38,plastic foil,plastics,no
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,Yes
+HE419/031-7,M12,2014-04-06 7:22:00,54.5613,5.4358,-38,plastic foil,plastics,no
+HE419/031-7,M12,2014-04-06 7:22:00,54.5613,5.4358,-38,plastic foil, plastics,no
+HE419/031-7,M12,2014-04-06 7:22:00,54.5613,5.4358,-38,net fiber,plastics,yes
+HE419/031-7,M12,2014-04-06 7:22:00,54.5613,5.4358,-38,net fiber,plastics,yes
+HE419/031-7,M12,2014-04-06 7:22:00,54.5613,5.4358,-38,net fiber,plastics,yes
+HE419/032-5,M21,2014-04-06 10:05:00,54.6863,5.538,-40,net fiber,plastics,yes
+HE419/032-5,M21,2014-04-06 10:05:00,54.6863,5.538,-40,plastic foil,Plastics ,no
+HE419/033-5,M22,2014-04-06 12:22:00,54.8612,5.7538,-38,net fiber,plastics,YES
+HE419/033-5,M22,2014-04-06 12:22:00,54.8612,5.7538,-38,net fiber,plastics,yes
+HE419/033-5,M22,2014-04-06 12:22:00,54.8612,5.7538,-38,net fiber,plastics,yes
+HE419/033-5,M22,2014-04-06 12:22:00,54.8612,5.7538,-38,net fiber,plastics,yes
+HE419/033-5,M22,2014-04-06 12:22:00,54.8612,5.7538,-38,net fiber,plastics,yes
+HE419/033-5,M22,2014-04-06 12:22:00,54.8612,5.7538,-38,piece of rope,plastics,yes
+HE419/034-5,M25,2014-04-06 14:21:00,54.8589,5.6213,-38,net fibre,plastics,yes
+HE419/034-5,M25,2014-04-06 14:21:00,54.8589,5.6213,-38,plastic mesh,plastics,yes
+HE419/034-5,M25,2014-04-06 14:21:00,54.8589,5.6213,-38,net fibre,plastics,yes
+HE419/035-5,M27,2014-04-06 16:20:00,54.8502,5.5665,-37,net fiber,plastics,yes
+HE419/035-5,M27,2014-04-06 16:20:00,54.8502,5.5665,-37,net fiber,plastics,yes
+HE419/035-5,M27,2014-04-06 16:20:00,54.8502,5.5665,-37,cable tie,plastics,no
+HE419/035-5,M27,2014-04-06 16:20:00,54.8502,5.5665,-37,net fiber,plastics,yes
+HE419/035-5,M27,2014-04-06 16:20:00,54.8502,5.5665,-37,piece of plastic bag,plastics,no
+HE419/037-5,M20,2014-04-06 20:18:00,54.787,5.3568,-40,net fiber,plastics,yes
+HE419/037-5,M20,2014-04-06 20:18:00,54.787,5.3568,-40,plastic foil,plastics,no
+HE419/038-6,M28,2014-04-06 22:25:00,54.7889,5.1658,-41,glass bottle,glass,no
+HE419/038-6,M28,2014-04-06 22:25:00,54.7889,5.1658,-41,sealing rubber,plastics,no
+HE419/038-6,M28,2014-04-06 22:25:00,54.7889,5.1658,-41,net fiber,plastics,yes
+HE419/038-6,M28,2014-04-06 22:25:00,54.7889,5.1658,-41,net fibers,plastics,yes
+HE419/038-6,,2014-04-06 22:25:00,54.7889,5.1658,-41,net fiber,plastics,yes
+HE419/038-6,M28,2014-04-06 22:25:00,54.7889,5.1658,-41,net fiber,plastics,yes
+HE419/039-5,,2014-04-07 0:30:00,54.7451,5.1975,-43,net fibers,plastics,yes
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-43,net fiber,plastics,yes
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-43,net fiber,plastics,yes
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-43,net fiber,plastics,yes
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-43,plastic mesh,plastics,yes
+HE419/039-5,,2014-04-07 0:30:00,54.7451,5.1975,-43,net fiber,plastics,yes
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-43,net fiber,plastics,yes
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-43,plastic foil,plastics,no
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-430,tyre with metal rim,others,no
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-43,cable tie,plastics,no
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,43,net fibers,plastics, yes
+HE419/039-5,M29,2014-04-07 0:30:00,54.7451,5.1975,-43,plastic foil,plastics,no
+HE419/040-5,M18,2014-04-07 2:36:00,54.7365,5.0058,-41,net fiber,plastics,yes
+HE419/040-5,M18,2014-04-07 2:36:00,54.7365,5.0058,-41,plastic bag,plastics,no
+HE419/040-5,M18,2014-04-07 2:36:00,54.7365,5.0058,-41,Plastic bag ,plastics,no
+HE419/041-5,M24,2014-04-07 4:57:00,54.8738,5.2635,-38,plastic bag,plastics,no
+HE419/041-5,M24,2014-04-07 4:57:00,54.8738,5.2635,-38,plastic bag,plastics,no
+HE419/042-5,M30,2014-04-07 7:13:00,54.8986,5.2546,-36,plastic foil,plastics,no
+HE419/042-5,M30,2014-04-07 7:13:00,54.8986,5.2546,-36,nylon line, plastics,yes
+HE419/042-5,M30,2014-04-07 7:13:00,54.8986,5.2546,36,net fibre,plastics,yes
+HE419/043-5,,2014-04-07 9:30:00,54.9329,5.2063,-35,plastic foil,plastics,no
+HE419/043-5,M32,2014-04-07 9:30:00,54.9329,5.2063,-35,plastic fiber,plastics,yes
+HE419/043-5,M32,2014-04-07 9:30:00,54.9329,5.2063,-35,net fiber,plastics,yes
+HE419/045-5,M26,2014-04-07 14:04:00,55.013,5.1953,-37,net fiber,plastics,yes
+HE419/066-5,M50,2014-04-09 8:34:00,55.3065,5.096,-45,plastic foil,plastics,NO
+HE419/046-7,M33,2014-04-07 16:13:00,55.0618,4.9381,-38,beverage can,metal,no
+HE419/046-7,M33,2014-04-07 16:13:00,55.0618,4.9381,-38,net fibers,plastics,yes
+HE419/046-7,M33,2014-04-07 16:13:00,55.0618,4.9381,-38,net fiber,plastics,yes
+HE419/046-7,M33,2014-04-07 16:13:00,55.0618,4.9381,-38,plastic mesh,PLASTICS,yes
+HE419/047-6,M34,2014-04-07 18:18:00,55.1633,4.7869,-39,net fiber,plastics,yes
+HE419/047-6,M34,2014-04-07 18:18:00,55.1633,4.7869,-39,plastic fiber,plastics,yes
+HE419/047-6,M34,2014-04-07 18:18:00,55.1633,4.7869,-39,net fiber,Plastics,yes
+HE419/049-5,M35,2014-04-07 22:31:00,55.3377,4.3668,-44,net fiber,plastics,yes
+HE419/049-5,M35,2014-04-07 22:31:00,55.3377,4.3668,-44,fishing line,plastics,yes
+HE419/050-7,M36,2014-04-08 1:13:00,55.4541,4.0468,-47,net fiber,plastics,yes
+HE419/050-7,M36,2014-04-08 1:13:00,55.4541,4.0468,-47,plastic fragment,plastics,no
+HE419/050-7,M36,2014-04-08 1:13:00,55.4541,4.0468,-47,piece of fishing net,plastics,yes
+HE419/050-7,M36,2014-04-08 1:13:00,55.4541,4.0468,-47,net fiber,plastics,yes
+HE419/050-7,M36,2014-04-08 1:13:00,55.4541,4.0468,-47,net fiber,plastics,yes
+HE419/050-7,M36,2014-04-08 1:13:00,55.4541,4.0468,-47,plastic rope,plastics,yes
+HE419/051-5,M37,2014-04-08 3:49:00,55.5908,3.7755,-47,metal texture,METAL,no
+HE419/092-5,M76,2014-04-11 16:21:00,54.3058,7.706,-27,net fiber,plastics,Yes
+HE419/025-5,M23,2014-04-05 17:37:00,54.9441,6.7224,-36,plastic foil,Plastics,no
+HE419/051-5,M37,2014-04-08 3:49:00,55.5908,3.7755,-47,net fiber,plastics,yes
+HE419/105-5,M92,2014-04-12 18:07:00,53.6557,6.429,-15,Net fiber,plastics,yes
+HE419/082-5,M70,2014-04-10 18:16:00,55.292,6.8068,-24,plastic foil,plastics,no
+HE419/051-5,M37,2014-04-08 3:49:00,55.5908,3.7755,-47,net fiber,plastics,yes
+HE419/051-5,M37,2014-04-08 3:49:00,55.5908,3.7755,-47,net fibers,plastics,yes
+HE419/051-5,M37,2014-04-08 3:49:00,55.5908,3.7755,-47,metal texture,metal,no
+HE419/051-5,,2014-04-08 3:49:00,55.5908,3.7755,-47,ballon with line,plastics,
+HE419/051-5,M37,2014-04-08 3:49:00,55.5908,3.7755,-47,ballon with line,plastics,no
+HE419/051-5,M37,2014-04-08 3:49:00,55.5908,3.7755,-47,plastic bag, plastics,no
+HE419/051-5,M37,2014-04-08 3:49:00,55.5908,3.7755,-47,net fibers,plastics,yes
+HE419/052-6,M48,2014-04-08 6:31:00,55.7398,3.476,300,piece of line,plastics,yes
+HE419/053-5,M39,2014-04-08 8:18:00,55.7895,3.43,-54,net fiber,plastics,yes
+HE419/089-5,M74,2014-04-11 10:13:00,54.6707,7.9684,-15,Net fiber,plastics,yes
+HE419/053-5,M39,2014-04-08 8:18:00,55.7895,3.43,-54,tyre with metal rim,others,no
+HE419/053-5,M39,2014-04-08 8:18:00,55.7895,3.43,-54,plastic foil,plastic,no
+HE419/053-5,M39,2014-04-08 8:18:00,55.7895,3.43,-54,metal texture,metal,
+HE419/053-5,M39,2014-04-08 8:18:00,55.7895,3.43,-54,plastic rope,plastics,yes
+HE419/053-5,M39,2014-04-08 8:18:00,55.7895,3.43,-54,cable tie,plastics,no
+HE419/053-5,M39,2014-04-08 8:18:00,55.7895,3.43,-54,piece of cable tie,plastics,no
+HE419/054-7,M44,2014-04-08 10:09:00,55.8467,3.4255,-57,beverage can,metal,no
+HE419/055-5,M45,2014-04-08 11:20:00,55.9053,3.4062,-63,net fiber,plastics,yes
+HE419/056-5,M46,2014-04-08 12:49:00,55.8968,3.4575,-62,cable tie,plastics,no
+HE419/056-5,M46,2014-04-08 12:49:00,55.8968,3.4575,-62,Cable tie,plastics,no
+HE419/056-5,M46,2014-04-08 12:49:00,55.8968,3.4575,-62,nylon line,plastics,yes
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,net fiber,plastics,yes
+HE419/066-5,M50,2014-04-09 8:34:00,55.3065,5.096,-45,packaging foil,plastics,no
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,net fibre,plastics,
+HE419/057-5,,2014-04-08 14:56:00,55.7731,3.6019,-53,net fibers,plastics,yes
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,plastic fiber,plastics,yes
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,net fibers,plastics,yes
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,piece of plastic bag,plastics,no
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,cable tie,plastics,no
+HE480/27-1,,2017-03-30 8:08:00,54.9421,6.8209,-33,plastic foil fragment, plastics,NO
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,piece of plastic foil,plastics,no
+HE419/057-5,M40,2014-04-08 14:56:00,55.7731,3.6019,-53,net fiber,plastics,yes
+HE419/058-5,M41,2014-04-08 17:04:00,55.7677,3.8282,-44,plastic bag,plastics,no
+HE419/058-5,M41,2014-04-08 17:04:00,55.7677,3.8282,-44,plastic foil,plastics,no
+HE419/058-5,M41,2014-04-08 17:04:00,55.7677,3.8282,-44,net fiber,plastics,yes
+HE419/059-5,M42,2014-04-08 19:12:00,55.6162,4.0233,-36,net fiber,plastics,yes
+HE419/059-5,M42,2014-04-08 19:12:00,55.6162,4.0233,-36,net fiber,PLASTICS,yes
+HE419/060-5,M38,2014-04-08 21:20:00,55.5607,4.2345,-30,slag,others,no
+HE419/060-5,M38,2014-04-08 21:20:00,55.5607,4.2345,-30,slag,others,no
+HE419/061-5,M43,2014-04-08 23:09:00,55.5095,4.3408,-36,net fiber,plastics,yes
+HE419/061-5,M43,2014-04-08 23:09:00,55.5095,4.3408,-36,piece of fishing net,plastics,yes
+HE419/061-5,M43,2014-04-08 23:09:00,55.5095,4.3408,-36,net fiber,plastics,yes
+HE419/062-6,M47,2014-04-09 1:00:00,55.4505,4.509,-32,packaging foil,plastics,no
+HE419/062-6,M47,2014-04-09 1:00:00,55.4505,4.509,-32,net fiber,plastics,yes
+HE419/062-6,M47,2014-04-09 1:00:00,55.4505,4.509,-32,packaging foil,plastics,NO
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-350,net fiber,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35, net fibers,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,net fiber,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,cable tie,plastics,no
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,plastic foil,plastics,no
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,net fibre,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,net fibers,PLASTICS,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,piece of line,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,piece of line,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,plastic foil,plastics,no
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,net fiber,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,piece of rope,plastics,yes
+HE419/063-5,M49,2014-04-09 2:48:00,55.3912,4.6536,-35,Net fiber ,plastics,yes
+HE419/033-5,M22,2014-04-06 12:22:00,54.8612,5.7538,-38,net fiber,plastics,yes
+HE419/065-5,M31,2014-04-09 6:28:00,55.2692,4.9147,-44,beverage can,metal,no
+HE419/065-5,M31,2014-04-09 6:28:00,55.2692,4.9147,-44,sealing rubber,PLASTICS,no
+HE419/066-5,M50,2014-04-09 8:34:00,55.3065,5.096,-45,plastic bag,plastics,no
+HE419/066-5,M50,2014-04-09 8:34:00,55.3065,5.096,-45,net fiber,plastics,yes
+HE419/066-5,M50,2014-04-09 8:34:00,55.3065,5.096,-45,plastic foil,plastics,no
+HE419/066-5,M50,2014-04-09 8:34:00,55.3065,5.096,-45,plastic mesh,plastics,yes 
+HE419/066-5,M50,2014-04-09 8:34:00,55.3065,5.096,-45,packaging foil,plastics,no
+HE419/067-5,M51,2014-04-09 10:40:00,55.2148,5.428,-43,piece of line,plastics,yes
+HE419/067-5,M51,2014-04-09 10:40:00,55.2148,5.428,-43,plastic mesh,plastics,yes
+HE419/067-5,M51,2014-04-09 10:40:00,55.2148,5.428,-43,Net fiber ,plastics,yes
+HE419/067-5,M51,2014-04-09 10:40:00,55.2148,5.428,-43,Plastic foil ,plastics,no
+HE419/068-5,M52,2014-04-09 12:47:00,55.2495,5.637,-42,candy packaging,plastics,no
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,Net fiber ,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,300,net fiber,plastic,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/013-5,M06,2014-04-04 8:20:00,54.311,6.4655,-33,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes 
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastic,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,Plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/042-5,M30,2014-04-07 7:13:00,54.8986,5.2546,-36,nylon line, plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber, plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics, yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/089-5,M74,2014-04-11 10:13:00,54.6707,7.9684,15,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics ,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/020-5,M16,2014-04-05 3:44:00,54.7532,6.6741,-31,sealing rubber,plastics,no
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,Net fiber ,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastic,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,Plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber, plastics,yes
+HE480/28-1,,2017-03-30 9:08:00,54.9666,6.8308,-29,rubber strip,plastics,no
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes 
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,PLASTICS,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/027-7,M79,2014-04-05 22:35:00,54.9312,6.4383,-40,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/099-5,M87,2014-04-12 7:17:00,53.8553,7.3525,-22,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47, net fiber,Plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,ballon with line,plastics,no
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,Yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/070-5,M54,2014-04-09 16:29:00,55.4401,5.8554,-40,piece of rope,plastics,yes
+HE419/070-5,M54,2014-04-09 16:29:00,55.4401,5.8554,-40,beverage can,metal,no
+HE419/070-5,,2014-04-09 16:29:00,55.4401,5.8554,-40,plastic foil,plastics, no
+HE419/071-5,M55,2014-04-09 18:22:00,55.4342,5.8862,-47,net fiber,plastics,yes
+HE419/072-5,M56,2014-04-09 19:38:00,55.2782,5.902,-47,net fibre,plastics,yes
+HE419/031-7,M12,2014-04-06 7:22:00,54.5613,5.4358,-38,net fiber,plastics,Yes
+HE419/072-5,M56,2014-04-09 19:38:00,55.2782,5.902,-47,plastic foil,plastics,no
+HE419/072-5,M56,2014-04-09 19:38:00,55.2782,5.902,-47,net fibers,plastics,yes
+HE419/072-5,,2014-04-09 19:38:00,55.2782,5.902,-47,packaging foil,plastics,no
+HE419/073-5,M58,2014-04-09 20:55:00,55.2502,5.891,-43,net fiber,plastics,yes 
+HE419/074-5,M57,2014-04-09 23:19:00,55.3217,6.0862,-46,net fiber,plastics,yes
+HE419/074-5,M57,2014-04-09 23:19:00,55.3217,6.0862,-46,net fiber,plastics,yes
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,tyre with metal rim,others,no
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,net fiber,plastics,yes
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,Net fiber,plastics,yes
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,net fiber,plastics,yes
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,net fiber,plastics,yes
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,net fiber,plastics,yes
+HE419/080-5,M65,2014-04-10 13:52:00,55.2867,6.4078,-38, plastic bag,plastics,no
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,plastic foil,plastics,no
+HE419/076-6,M69,2014-04-10 4:33:00,55.0825,6.236,-42,net fiber,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,plastic foil,plastics,no
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,300,net fibers,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/011-6,M66,2014-04-04 3:41:00,54.1597,6.1593,-32,plastic foil,plastics,no
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,net fibers,plastics,yes
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,piece of plastic foil,plastics,No
+HE480/30-2,,2017-03-30 11:09:00,54.9257,6.7864,-28,plastic fragment,plastic,no
+HE419/077-6,M19,2014-04-10 7:17:00,55.061,6.403,-43,plastic foil,plastics,no
+HE419/078-6,M64,2014-04-10 10:00:00,55.1488,6.3918,-45,net fibers,plastics,yes
+HE419/078-6,M64,2014-04-10 10:00:00,55.1488,6.3918,300,net fibers,plastics,yes
+HE419/078-6,M64,2014-04-10 10:00:00,55.1488,6.3918,-45,net fibers,plastic,yes
+HE419/078-6,M64,2014-04-10 10:00:00,55.1488,6.3918,-45,net fibers,plastics,yes
+HE419/078-6,M64,2014-04-10 10:00:00,55.1488,6.3918,-45,net fibers,plastics,yes
+HE419/079-5,M63,2014-04-10 12:12:00,55.2218,6.2267,-45,plastic foil, plastics,no
+HE419/079-5,M63,2014-04-10 12:12:00,55.2218,6.2267,-45,piece of plastic bag,plastics,no
+HE419/079-5,M63,2014-04-10 12:12:00,55.2218,6.2267,-45,net fiber,plastics,yes
+HE419/079-5,M63,2014-04-10 12:12:00,55.2218,6.2267,-45,net fiber,plastics,yes
+HE419/080-5,M65,2014-04-10 13:52:00,55.2867,6.4078,-38, plastic bag,plastics,no
+HE419/080-5,M65,2014-04-10 13:52:00,55.2867,6.4078,-38,plastic foil,plastics,no
+HE419/080-5,M65,2014-04-10 13:52:00,55.2867,6.4078,-38,net fiber,plastics,yes
+HE419/081-5,M62,2014-04-10 16:02:00,55.3677,6.3667,-39,plastic fiber,plastics ,yes
+HE419/082-5,M70,2014-04-10 18:16:00,55.292,6.8068,-24,net fiber,plastics,yes 
+HE419/082-5,M70,2014-04-10 18:16:00,55.292,6.8068,-24,Plastic foil,plastics,no
+HE419/082-5,M70,2014-04-10 18:16:00,55.292,6.8068,-24,plastic foil,plastics,no
+HE419/082-5,M70,2014-04-10 18:16:00,55.292,6.8068,-24,plastic foil,plastics,no
+HE419/082-5,M70,2014-04-10 18:16:00,55.292,6.8068,-24,plastic foil,plastics,no
+HE419/082-5,M70,2014-04-10 18:16:00,55.292,6.8068,-24,net fiber,plastics,yes
+HE419/083-7,M59,2014-04-10 20:51:00,55.2071,7.1091,-22,net fibers,plastics,YES
+HE419/083-7,M59,2014-04-10 20:51:00,55.2071,7.1091,-22,piece of fishing net,plastics,yes
+HE419/084-5,M60,2014-04-10 23:20:00,55.0836,7.2708,-21,piece of fishing net,plastics,yes
+HE419/084-5,M60,2014-04-10 23:20:00,55.0836,7.2708,-21,net fiber,plastics, yes
+HE419/065-5,M31,2014-04-09 6:28:00,55.2692,4.9147,-44,sealing rubber,PLASTICS,no
+HE419/084-5,M60,2014-04-10 23:20:00,55.0836,7.2708,-21,net fiber,plastics,yes
+HE419/084-5,M60,2014-04-10 23:20:00,55.0836,7.2708,-21,plastic fragment,plastics,no
+HE419/084-5,M60,2014-04-10 23:20:00,55.0836,7.2708,-21,plastic foil,plastics,no
+HE419/084-5,M60,2014-04-10 23:20:00,55.0836,7.2708,-21,net fibers,plastics,yes
+HE419/085-5,M72,2014-04-11 1:53:00,55.0547,7.5393,-20,net fiber,plastics,yes
+HE419/085-5,M72,2014-04-11 1:53:00,55.0547,7.5393,-20,net fiber,plastics,yes
+HE419/086-7,M71,2014-04-11 4:07:00,55.0669,7.8159,-19,net fiber,plastics,yes
+HE419/086-7,M71,2014-04-11 4:07:00,55.0669,7.8159,-19,Net fibre,plastics,yes
+HE419/086-7,M71,2014-04-11 4:07:00,55.0669,7.8159,-19,plastic foil,plastics,no
+HE419/086-7,M71,2014-04-11 4:07:00,55.0669,7.8159,-19,plastic fragment,plastics,no
+HE419/087-5,M75,2014-04-11 6:16:00,55.0208,8.1307,-12,net fiber,plastics,yes
+HE419/087-5,M75,2014-04-11 6:16:00,55.0208,8.1307,-12,plastic foil,plastics,no
+HE419/088-5,M73,2014-04-11 8:14:00,54.9038,8.0124,-11,plastic foil,plastics,no
+HE419/088-5,M73,2014-04-11 8:14:00,54.9038,8.0124,-11,net fiber,plastics,yes
+HE419/088-5,M73,2014-04-11 8:14:00,54.9038,8.0124,-11,Plastic bag ,plastics ,no
+HE419/088-5,M73,2014-04-11 8:14:00,54.9038,8.0124,-11,packaging foil,plastics,no
+HE419/088-5,M73,2014-04-11 8:14:00,54.9038,8.0124,-11,net fibre,plastics,yes
+HE419/098-5,M87,2014-04-12 5:52:00,53.8783,7.5478,-18,net fiber,plastics,yes
+HE419/088-5,M73,2014-04-11 8:14:00,54.9038,8.0124,-11,net fibers,plastics,yes
+HE419/089-5,M74,2014-04-11 10:13:00,54.6707,7.9684,-15,plastic foil,plastics,no
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,Glas fragment,glass,no
+HE419/089-5,M74,2014-04-11 10:13:00,54.6707,7.9684,15,net fiber,plastics,yes
+HE419/089-5,M74,2014-04-11 10:13:00,54.6707,7.9684,-15,plastic foil,plastics,no
+HE419/089-5,M74,2014-04-11 10:13:00,54.6707,7.9684,-15,net fiber,plastics,yes
+HE419/090-5,M97,2014-04-11 12:12:00,54.4783,7.899,-16,net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastic,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber, plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastic,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber,plastics,YES
+HE419/092-5,M76,2014-04-11 16:21:00,54.3058,7.706,-27,net fiber,plastics,yes
+HE419/092-5,M76,2014-04-11 16:21:00,54.3058,7.706,-27,plastic foil,plastics,no
+HE419/092-5,M76,2014-04-11 16:21:00,54.3058,7.706,-27,plastic rope,plastics,yes
+HE419/093-5,M77,2014-04-11 18:25:00,54.2793,7.9472,-20,plastic foil,plastics,no
+HE419/093-5,M77,2014-04-11 18:25:00,54.2793,7.9472,-20,fishing line,plastics,yes
+HE419/094-5,M78,2014-04-11 20:29:00,54.2173,8.1942,-16,beverage can,metal,NO
+HE419/094-5,M78,2014-04-11 20:29:00,54.2173,8.1942,-16,plastic foil,plastics,no
+HE419/075-5,M61,2014-04-10 1:22:00,55.1365,5.9857,-40,plastic foil,plastics,no
+HE419/094-5,M78,2014-04-11 20:29:00,54.2173,8.1942,-16,net fibers,plastics ,Yes
+HE419/094-5,M78,2014-04-11 20:29:00,54.2173,8.1942,-16,net fiber,plastics,yes
+HE419/094-5,M78,2014-04-11 20:29:00,54.2173,8.1942,-16,net fibers, plastics,yes
+HE419/094-5,M78,2014-04-11 20:29:00,54.2173,8.1942,-16,net fiber,plastics,yes
+HE419/095-5,M82,2014-04-11 22:34:00,54.1848,8.3247,-13,Plastic bottle,plastics,no
+HE419/096-5,M84,2014-04-12 0:12:00,54.0905,8.2015,-14,cable tie,plastics,no
+HE419/096-5,M84,2014-04-12 0:12:00,54.0905,8.2015,-14,packaging foil,plastics,no
+HE419/096-5,M84,2014-04-12 0:12:00,54.0905,8.2015,-14,plastic foil,plastics,no
+HE419/096-5,M84,2014-04-12 0:12:00,54.0905,8.2015,-14,packaging foil,plastics,no
+HE419/097-5,M86,2014-04-12 3:51:00,53.8585,7.6837,-16,net fiber,PLASTICS,yes
+HE419/097-5,M86,2014-04-12 3:51:00,53.8585,7.6837,-16,plastic fiber,plastics,yes
+HE419/098-5,M94,2014-04-12 5:52:00,53.8783,7.5478,-18,net fiber,plastics,YES
+HE419/098-5,M87,2014-04-12 5:52:00,53.8783,7.5478,-18,Net fiber,plastics,yes
+HE419/098-5,M87,2014-04-12 5:52:00,53.8783,7.5478,-18,net fiber,plastics,yes
+HE419/099-5,M87,2014-04-12 7:17:00,53.8553,7.3525,-22,net fiber,plastics,yes
+HE419/099-5,M87,2014-04-12 7:17:00,53.8553,7.3525,-22,net fiber,plastics ,yes
+HE419/100-5,M89,2014-04-12 9:46:00,53.8185,7.062,-19,net fiber,plastics,yes
+HE419/101-5,M90,2014-04-12 11:27:00,53.866,6.8883,-22,piece of cable tie,plastics,no
+HE419/101-5,M90,2014-04-12 11:27:00,53.866,6.8883,-22,net fiber ,plastics,yes
+HE419/102-5,M95,2014-04-12 13:01:00,53.8303,6.6423,-20,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,YES
+HE419/102-5,M95,2014-04-12 13:01:00,53.8303,6.6423,-20,net fiber,plastics,yes
+HE419/102-5,M95,2014-04-12 13:01:00,53.8303,6.6423,-20,net fiber,plastics,yes
+HE419/102-5,M95,2014-04-12 13:01:00,53.8303,6.6423,-20,net fiber,plastics,yes
+HE419/103-5,M93,2014-04-12 15:04:00,53.72,6.4828,-19,net fiber,plastics,yes
+HE419/103-5,M93,2014-04-12 15:04:00,53.72,6.4828,-19,net fiber,plastics,yes
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47,net fiber,plastics,yes
+HE419/104-5,M91,2014-04-12 16:43:00,53.6567,6.4595,-12,net fiber,plastic,yes
+HE419/104-5,M91,2014-04-12 16:43:00,53.6567,6.4595,-12,net fiber,plastics,yes
+HE419/067-5,M51,2014-04-09 10:40:00,55.2148,5.428,-43,piece of line,PLASTICS,yes
+HE419/104-5,M91,2014-04-12 16:43:00,53.6567,6.4595,-12,net fiber,plastics,yes
+HE419/104-5,M91,2014-04-12 16:43:00,53.6567,6.4595,-12,plastic mesh,plastic,yes
+HE419/104-5,M91,2014-04-12 16:43:00,53.6567,6.4595,-12,plastic mesh,plastics,yes
+HE419/105-5,M92,2014-04-12 18:07:00,53.6557,6.429,-15,net fiber,plastics,yes
+HE419/105-5,M92,2014-04-12 18:07:00,53.6557,6.429,-15,Net fiber,plastics,yes
+HE419/105-5,M92,2014-04-12 18:07:00,53.6557,6.429,-15,net fiber,plastics,yes
+HE419/105-5,M92,2014-04-12 18:07:00,53.6557,6.429,-15,plastic foil,plastics,no
+HE419/069-5,M53,2014-04-09 14:37:00,55.3958,5.625,-47, net fiber,PLASTICS,yes
+HE419/105-5,M92,2014-04-12 18:07:00,53.6557,6.429,-15,net fiber,Plastics ,yes
+HE419/105-5,M92,2014-04-12 18:07:00,53.6557,6.429,-15,net fiber,plastics,yes
+HE480/24-23,,2017-03-29 9:17:00,55.8466,3.4414,-57,plastic net fiber, plastics,yes
+HE480/25-2,,2017-03-30 6:31:00,54.949,6.8891,-28,plastic net fiber,plastics,yes
+HE480/25-2,,2017-03-30 6:31:00,54.949,6.8891,-28,plastic foil,plastics , no
+HE480/26-1,,2017-03-30 7:09:00,54.9488,6.8888,-29,plastic foil fragment,plastics,no
+HE480/26-1,,2017-03-30 7:09:00,54.9488,6.8888,-29,plastic fragment,plastics,no
+HE480/27-1,,2017-03-30 8:08:00,54.9421,6.8209,-33,plastic foil fragment, plastics,no
+HE480/27-1,,2017-03-30 8:08:00,54.9421,6.8209,-33,plastic net fiber,plastics,yes
+HE480/27-1,,2017-03-30 8:08:00,54.9421,6.8209,-33,plastic net fiber,plastics,yes
+HE480/27-1,,2017-03-30 8:08:00,54.9421,6.8209,-33,rubber strip,plastics,no
+HE480/27-2,,2017-03-30 8:09:00,54.9311,6.8629,-26,plastic fragment,plastics,no
+HE480/27-2,,2017-03-30 8:09:00,54.9311,6.8629,-26,plastic net fiber,plastics,yes
+HE480/27-2,,2017-03-30 8:09:00,54.9311,6.8629,-26,plastic net fiber,plastics,yes
+HE480/28-1,,2017-03-30 9:08:00,54.9666,6.8308,-2900,plastic foil,plastics,no
+HE419/088-5,M73,2014-04-11 8:14:00,54.9038,8.0124,-11,net fibers,plastics,yes
+HE480/28-1,,2017-03-30 9:08:00,54.9666,6.8308,-29,rubber strip,plastics,no
+HE480/28-1,,2017-03-30 9:08:00,54.9666,6.8308,-29,plastic foil fragment,plastics,no
+HE480/29-1,,2017-03-30 10:08:00,54.9123,6.8689,-31,rubber strip,plastics,no
+HE480/29-1,,2017-03-30 10:08:00,54.9123,6.8689,-31,plastic fragment,plastics,no
+HE480/29-1,,2017-03-30 10:08:00,54.9123,6.8689,-31,glas fragment,glass,no
+HE480/29-1,,2017-03-30 10:08:00,54.9123,6.8689,-31,glas fragment,glass,no
+HE480/29-2,,2017-03-30 10:26:00,54.9089,6.8773,-29,plastic net fiber,plastic, yes
+HE480/30-1,,2017-03-30 11:08:00,54.9015,6.9057,-24,plastic net fiber,plastics,yes 
+HE480/30-1,,2017-03-30 11:08:00,54.9015,6.9057,-24,plastic net fiber,plastics,yes
+HE480/30-1,,2017-03-30 11:08:00,54.9015,6.9057,-24,plastic net fiber,plastics,yes
+HE480/30-1,,2017-03-30 11:08:00,54.9015,6.9057,-24,plastic net fiber,plastics,yes
+HE480/30-1,,2017-03-30 11:08:00,54.9015,6.9057,-24,plastic foil,plastics,no
+HE480/30-1,,2017-03-30 11:08:00,54.9015,6.9057,-24,Plastic fishing line ,plastics,yes
+HE480/30-1,,2017-03-30 11:08:00,54.9015,6.9057,-24,plastic fragment,plastics,no
+HE480/30-2,,2017-03-30 11:09:00,54.9257,6.7864,-28,plastic foil fragment,plastics,no
+HE480/30-2,,2017-03-30 11:09:00,54.9257,6.7864,-28,plastic net fiber,plastics,yes
+HE419/091-5,FSd,2014-04-11 14:17:00,54.3643,7.5815,-28,net fiber, plastics,yes
+HE480/30-2,,2017-03-30 11:09:00,54.9257,6.7864,-28,plastic net fiber,plastics,yes
+HE480/30-2,,2017-03-30 11:09:00,54.9257,6.7864,-28,plastic net fiber,plastics,yes 
+HE480/30-2,,2017-03-30 11:09:00,54.9257,6.7864,-28,plastic fragment,plastic,no
+HE480/30-2,,2017-03-30 11:09:00,54.9257,6.7864,-28,rubber strip,plastics,no
+HE480/31-2,,2017-03-30 11:52:00,54.9039,6.9005,-26,plastic foil,plastics,no
+HE480/32-2,,2017-03-30 13:02:00,54.8507,6.9347,-28,plastic net fiber,plastics,Yes
+HE480/32-2,,2017-03-30 13:02:00,54.8507,6.9347,-28,plastic net fiber,plastics,yes
+HE480/32-2,,2017-03-30 13:02:00,54.8507,6.9347,-28,plastic net fiber,plastics,yes
+HE480/32-2,,2017-03-30 13:02:00,54.8507,6.9347,-28,plastic net fiber ,plastics,yes
+HE480/33-2,,2017-03-30 17:27:00,54.9672,6.5193,-39,plastic fragment,plastics,
+HE480/33-10,,2017-03-30 17:49:00,55.005,6.5041,-42,plastic net fiber,plastics, yes
+HE480/33-10,,2017-03-30 17:49:00,55.005,6.5041,-42,plastic net fiber,plastics,yes
+HE480/33-10,,2017-03-30 17:49:00,55.005,6.5041,-42,plastic net fiber,plastics,yes
+HE480/34-1,,2017-03-31 5:35:00,54.8494,6.9373,-27,plastic fishing line,plastics,yes
+HE480/34-1,,2017-03-31 5:35:00,54.8494,6.9373,-27,plastic net fiber,plastics,yes
+HE480/34-2,,2017-03-31 5:35:00,54.8503,6.9134,-28,plastic net fiber,plastic,yes
+HE480/34-2,,2017-03-31 5:35:00,54.8503,6.9134,-28,rubber strip,plastics,no
+HE480/35-2,,2017-03-31 6:54:00,54.8431,6.9653,-26,plastic foil fragment,plastics,no
+HE480/35-2,,2017-03-31 6:54:00,54.8431,6.9653,-26,plastic net fiber,plastics,yes 
+HE480/35-2,,2017-03-31 6:54:00,54.8431,6.9653,200,plastic net fiber,plastics,yes
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,glas fragment,glass,no
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,plastic fragment,plastics,no
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,plastic net fiber,plastics,yes
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,plastic net fiber,plastics,yes
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24, plastic net fiber,PLASTICS,yes
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,plastic fragment,plastics,No
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,Glas fragment, glass,no
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,plastic foil fragment,plastics,no
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,Plastic fragment,plastics,no
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,plastic net fiber,plastics,yes 
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-24,plastic foil fragment,plastics,no
+HE480/36-1,,2017-03-31 19:28:00,54.4882,7.5106,-240,plastic net fiber,plastics,YES
+HE480/36-2,,2017-03-31 19:35:00,54.4514,7.5328,-25,rubber strip,plastics,no
+HE480/36-2,,2017-03-31 19:35:00,54.4514,7.5328,-25,glas fragment,glass,no
+HE480/36-2,,2017-03-31 19:35:00,54.4514,7.5328,-25,plastic foil fragment,plastics,no
+HE480/37-1,,2017-04-01 8:10:00,54.0491,8.077,-19,plastic foil fragment,plastics,no
+HE480/37-1,,2017-04-01 8:10:00,54.0491,8.077,-19,Plastic net fiber ,plastics,yes
+HE480/38-1,,2017-04-01 10:08:00,54.0049,7.8231,-32,glas bottle,glass,no
